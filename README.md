@@ -23,6 +23,10 @@ date: 2023-07-13
 
 - See end of the slides in `Intro-to-Numerical-Computing-with-PDL.ipynb`.
 
+## Colophon
+
+Using <https://github.com/damianavila/RISE> to present live interactive slides.
+
 ## Conference
 
 - [Conference wiki](https://github.com/perlconference/tprc-2023-tor/wiki)
