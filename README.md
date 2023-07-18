@@ -27,4 +27,4 @@ date: 2023-07-13
 
 - [Conference wiki](https://github.com/perlconference/tprc-2023-tor/wiki)
 - [Conference website](https://tprc.to/tprc-2023-tor/)
-- [Link to talk on conference schedule](https://tprc2023.sched.com/event/1LhnP)
+- [Link to talk on conference schedule](https://tprc2023.sched.com/event/1LhnP/introduction-to-numerical-computing-with-the-perl-data-language-pdl)
