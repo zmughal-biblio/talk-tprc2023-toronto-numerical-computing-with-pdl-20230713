@@ -17,11 +17,11 @@ date: 2023-07-13
 
 ## Video
 
-- TBD
+[![Talk video](http://img.youtube.com/vi/a10p1VUuoJA/0.jpg)](https://www.youtube.com/watch?v=a10p1VUuoJA)
 
 ## Resources
 
-- TBD
+- See end of the slides in `Intro-to-Numerical-Computing-with-PDL.ipynb`.
 
 ## Conference
 
