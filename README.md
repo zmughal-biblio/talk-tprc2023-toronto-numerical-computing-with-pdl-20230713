@@ -15,6 +15,10 @@ date: 2023-07-13
 >
 > This talk is for you if you have never heard of PDL before or have heard of PDL, but are unsure what you can use it for.
 
+## Slides
+
+- [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/zmughal-biblio/talk-tprc2023-toronto-numerical-computing-with-pdl/blob/main/Intro-to-Numerical-Computing-with-PDL.ipynb)
+
 ## Video
 
 [![Talk video](http://img.youtube.com/vi/a10p1VUuoJA/0.jpg)](https://www.youtube.com/watch?v=a10p1VUuoJA)
