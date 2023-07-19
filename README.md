@@ -17,7 +17,7 @@ date: 2023-07-13
 
 ## Slides
 
-- [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/zmughal-biblio/talk-tprc2023-toronto-numerical-computing-with-pdl/blob/main/Intro-to-Numerical-Computing-with-PDL.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/zmughal-biblio/talk-tprc2023-toronto-numerical-computing-with-pdl/blob/main/Intro-to-Numerical-Computing-with-PDL.ipynb)
 
 ## Video
 
